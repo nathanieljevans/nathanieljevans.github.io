@@ -43,7 +43,7 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#4d0099' #Purple --- https://www.w3schools.com/colors/colors_picker.asp
+highlight-color: '#000080' #Blue --- https://www.w3schools.com/colors/colors_picker.asp
 lowlight-color: '#333333' #Grey
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
