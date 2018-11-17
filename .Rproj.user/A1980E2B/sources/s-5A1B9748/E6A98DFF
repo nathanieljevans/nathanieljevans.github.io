@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1273577807",
+    "hash" : "2014040917",
     "id" : "E6A98DFF",
-    "lastKnownWriteTime" : 1542415537,
-    "last_content_update" : 1542415537724,
+    "lastKnownWriteTime" : 1542417443,
+    "last_content_update" : 1542417443438,
     "path" : "~/personal_website/nathanieljevans.github.io/_config.yml",
     "project_path" : "_config.yml",
     "properties" : {
-        "cursorPosition" : "9,19",
-        "scrollLine" : "0"
+        "cursorPosition" : "45,24",
+        "scrollLine" : "37"
     },
     "relative_order" : 7,
     "source_on_save" : false,

@@ -3,12 +3,13 @@
 title: Academic Website of Nate Evans 
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
+theme: http://jekyllthemes.org/ # to employ these, replace the _include folder by forking one of these themes
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Nathaniel J Evans 
   avatar: headshot1.jpg
-  bio: "This is a sample Jekyll academic website."
+  bio: "This is a Jekyll academic website."
   email: evansna@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: 
@@ -42,7 +43,7 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
+highlight-color: 'purple'
 lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
