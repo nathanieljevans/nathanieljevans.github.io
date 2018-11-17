@@ -3,13 +3,13 @@
 title: Academic Website of Nate Evans 
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
-theme: http://jekyllthemes.org/ # to employ these, replace the _include folder by forking one of these themes
+#theme: http://jekyllthemes.org/ # to employ these, replace the _include folder by forking one of these themes
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Nathaniel J Evans 
   avatar: headshot1.jpg
-  bio: "This is a Jekyll academic website."
+  bio: "The academic website of Nate Evans"
   email: evansna@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: 
