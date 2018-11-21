@@ -9,7 +9,7 @@ excerpt: "Recent Projects"
 
 ## Automated Microscope System
 
-![ams](ams_2.jpg)
+![ams](/images/ams_2.jpg)
 
 This project was necessitated by the glacially slow nature of a human manually counting several thousand 10x10 micron silicon wafers and has become one of my most exciting projects. To produce this product  required the fusion of motor control, microscopy, image processing and object classification. As the sole engineer, I learned a vast amount regarding component integration, machine vision and machine learning techniques. 
 
