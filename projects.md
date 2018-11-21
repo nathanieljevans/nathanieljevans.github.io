@@ -4,10 +4,10 @@ title: Projects
 excerpt: "Recent Projects"
 ---
 
-# Here are some projects to date 
+# Here are some of my projects to date 
 
 
-##Automated Microscope System (AMS)
+## Automated Microscope System
 
 ![ams](ams_2.jpg)
 
