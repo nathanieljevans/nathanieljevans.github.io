@@ -1,0 +1,1 @@
+"0","ggplot() + geom_density(aes(x=result)) + geom_vline(xintercept =sample_mean_diff, col='red' )"

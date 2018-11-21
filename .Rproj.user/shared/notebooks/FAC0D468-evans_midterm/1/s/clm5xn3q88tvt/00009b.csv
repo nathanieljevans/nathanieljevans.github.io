@@ -1,0 +1,7 @@
+"0","p.value <- sum(result > sample_mean_diff) / B"
+"0","print(c('p.value: ', p.value))"
+"1","[1]"
+"1"," ""p.value: ""           "
+"1"," ""0.000770007700077001"""
+"1","
+"
