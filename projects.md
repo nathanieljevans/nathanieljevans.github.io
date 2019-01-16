@@ -6,9 +6,10 @@ excerpt: "Recent Projects"
 
 # A few of my projects to date  
 
-## Automated Microscope System </br>
+## Automated Microscope System
 
 ![ams](/images/ams_2.jpg)   
+
 Visiongate had the need to accurately determine target object density in a high viscoisty fluid. To solve this, we dispensed a precise volume of the sample onto a microscope slide (measured by sartorius scale) and then counted the number of objects present. Assuming a homogenous sample, we could then extend this density and infer the total object count. Manually counting target objects (in excess of a thousand per slide) was glacially slow and so I developed a system to scan the microscope slide and then process the images to provide a total count. To produce this product required the fusion of motor control, microscopy, image processing and machinellearning. As the sole engineer, I learned a vast amount regarding component integration, image processing and machine learning techniques.   
 
 ![wafers](/images/wafers_9109B_6.jpg)  
