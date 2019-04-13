@@ -2,6 +2,8 @@
 layout: resume
 ---
 
+# Nathaniel J Evans
+
 Address:`2709 SW 2nd Ave, Portland, OR 97201`  
 Telephone: `(360) 441-1594`   
 Email: `evansna@ohsu.edu`    
@@ -59,7 +61,6 @@ Oregon Health and Science University
 - Covered QC/QA techniques for dose-response data, dose-response feature extraction techniques (including AUC, IC50) and compared fitting methods used by the beatAML project under mentorship of Drs. Shannon McWeeney and Aurora Blucher. Currently extending this by developing metrics of curve similarity for automated detection of toxicologically uncharacteristic dose-response observations that may be misrepresented by classical sensitivity metrics. 
 - Development, testing and validation of a Single Particle Tracking (SPT) pipeline for application of Total Internal Reflection Fluorescence (TIRF) super-resolution imaging of actin monomers under the mentorship of Drs. James & Catherine Galbraith. 
 - Image registration package comparison for efficient high-throughput analysis of fluorescence imaging data under mentorship of Dr. Xubo Song. 
-
 
 `2013-Current`
 **Visiongate, Inc.**  
