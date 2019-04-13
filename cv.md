@@ -2,8 +2,6 @@
 layout: resume
 ---
 
-# Nathaniel J Evans 
-
 Address:`2709 SW 2nd Ave, Portland, OR 97201`  
 Telephone: `(360) 441-1594`   
 Email: `evansna@ohsu.edu`    
@@ -54,16 +52,17 @@ Identification of Atypical Dose-response Curves and Implications for Drug Sensit
 
 ## Occupation
 
-`Current`  
-__Bioinformatics and Computational Biomedicine Ph.D Student__, Oregon Health and Science University
+`Current`
+__Bioinformatics and Computational Biomedicine Ph.D Student__  
+Oregon Health and Science University
 
 - Covered QC/QA techniques for dose-response data, dose-response feature extraction techniques (including AUC, IC50) and compared fitting methods used by the beatAML project under mentorship of Drs. Shannon McWeeney and Aurora Blucher. Currently extending this by developing metrics of curve similarity for automated detection of toxicologically uncharacteristic dose-response observations that may be misrepresented by classical sensitivity metrics. 
 - Development, testing and validation of a Single Particle Tracking (SPT) pipeline for application of Total Internal Reflection Fluorescence (TIRF) super-resolution imaging of actin monomers under the mentorship of Drs. James & Catherine Galbraith. 
 - Image registration package comparison for efficient high-throughput analysis of fluorescence imaging data under mentorship of Dr. Xubo Song. 
 
 
-`2013-Current`  
-**Visiongate, Inc.**
+`2013-Current`
+**Visiongate, Inc.**  
 Visiongate is a Biotechnology company dedicated to the early detection and prevention of cancer. Visiongate is developing a lung cancer diagnostic aid, employing high-throughput 3D imaging of cells from liquid biopsy using Optical Projection Tomography Microscopy (OPTM). For more information:  www.visiongate3d.com. 
 
 __Consultant__ `2018-Current`
@@ -91,17 +90,13 @@ __Mechanical Engineer Intern__ `2013-2015`
 
 
 `2014-2015`
-__Student Researcher__, University of Wasington Human Phtonics Lab (HPL)  
+__Student Researcher__  
+University of Wasington (UW) Human Phtonics Lab (HPL)  
 
 - Optical Projection Tomography Microscopy (OPTM) is inherently limited to narrow imaging thicknesses by commercially available Numerical Apertures (NA), however, by axially stitching, there is no limit to tissue length that can be imaged. This implies imaging of needle biopsies are an excellent application for this imaging technique. As a plausible data acquisition model, designed in CAD a OPTM module allowing needle biopsy translations necessary for OPTM imaging. Mentored by Dr. Eric Seibel.  
 - Re-designed and prototyped a modular cartridge for index matched, large sample imaging, compatible with OPT microscope. Mentored by Dr. Ronnie Das. 
 
 ## Technical Skills 
-
-<div class = "row">
-  
-<div class = "col-md-4">
-<br><br>
 
 ### Programming Languages 
 
@@ -116,12 +111,6 @@ __Student Researcher__, University of Wasington Human Phtonics Lab (HPL)
 - cypher 
 - git
 
-
-</div>
-  
-<div class = "col-md-4">
-<br><br>
-
 ### Software
 
 - SolidWorks
@@ -131,22 +120,11 @@ __Student Researcher__, University of Wasington Human Phtonics Lab (HPL)
 - Adobe Photoshop CC & Lightroom
 - Perforce 
 
-</div>
-
-<div class = "col-md-4">
-<br><br>
-
 ### Manufacturing
 
 - Competent machinist (CNC lathe & Mill)
 - Proficient with various forms of additive manufacturing
 - Experienced with water-jetting and laser-cutting
-
-</div>
-  
-</div>
-
-
 
 
 <!-- ### Footer
