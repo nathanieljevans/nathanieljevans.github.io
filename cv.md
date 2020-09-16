@@ -45,9 +45,15 @@ Identification of Atypical Dose-response Curves and Implications for Drug Sensit
 __Bioinformatics and Computational Biomedicine Ph.D Student__  
 Oregon Health and Science University
 
+- RA2 position in the Mills lab  
+  - Developing image registration pipeline for CyclicIF   
+
+- Collaborating with the Kulesz-Martin Lab on precision oncology research in HNSCC patients. 
+
 - Covered QC/QA techniques for dose-response data, dose-response feature extraction techniques (including AUC, IC50) and compared fitting methods used by the beatAML project under mentorship of Drs. Shannon McWeeney and Aurora Blucher. Currently extending this by developing metrics of curve similarity for automated detection of toxicologically uncharacteristic dose-response observations that may be misrepresented by classical sensitivity metrics. 
+
 - Development, testing and validation of a Single Particle Tracking (SPT) pipeline for application of Total Internal Reflection Fluorescence (TIRF) super-resolution imaging of actin monomers under the mentorship of Drs. James & Catherine Galbraith. 
-- Image registration package comparison for efficient high-throughput analysis of fluorescence imaging data under mentorship of Dr. Xubo Song. 
+
 
 `2013-Current`
 **Visiongate, Inc.**  
@@ -88,15 +94,14 @@ University of Wasington (UW) Human Phtonics Lab (HPL)
 
 ### Programming Languages 
 
-- Python (Libraries: OpenCV, scikit-learn, scikit-image, numpy, pandas, Tensorflow)
-- R (tidyr, dplyr, ggplot)
+- Python 
+- R 
 - Java
 - C/C++
 - MATLAB 
 - Mathematica
 - bash
 - mySQL
-- cypher 
 - git
 
 ### Software
