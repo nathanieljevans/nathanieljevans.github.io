@@ -4,16 +4,9 @@ layout: resume
 
 # Nathaniel J Evans
 
-Address:`2709 SW 2nd Ave, Portland, OR 97201`  
-Telephone: `(360) 441-1594`   
-Email: `evansna@ohsu.edu`    
-Personal Website: `https://nathanieljevans.github.io/`  
-
-*** 
-
 ## Currently
 
-Nate is a Bioinformatics and Computational Biomedicine PhD student at Oregon Health and Science University (OHSU). His current projects involve dose-response feature analysis for effective comparability, and parameter optimization methods in super-resolution single particle tracking. Previous to this, he spent 5 years as a mechanical engineer at Visiongate where he worked to develop a biomedical device employing high-throughput 3D single cell imaging as a lung cancer diagnostic tool. Nate has a BS in Biological Physics from the University of Washington (UW) and worked in the UW human photonics lab (HPL) on novel applications of Optical Projection Tomography Microscopy. He has broad interests in machine learning, high-performance computing, medical imaging, early-detection and treatment of cancer, and data-driven design of biomedical devices.
+Nate is a Bioinformatics and Computational Biomedicine PhD student at Oregon Health and Science University (OHSU). He is actively engaged in various precision oncology projects and has special interest in predicting cell line and patient response to drug combinations.
 
 ## Education
 
@@ -28,13 +21,7 @@ B.S. Biological Physics
 ## Patents
 
 `2017`
-METHOD AND APPARATUS FOR PRE-POSITIONING A STATIC, RADIALLY SYMMETRIC, COAXIAL SAMPLE AND SHEATH COMBINATION TO PROVIDE UNIFORM SAMPLE DELIVERY DURING FLOW **[patent pending]**
-
-`2019`
-METHOD AND APPARATUS FOR LOW LOSS UNIFORM DISTRIBUTION OF SMALL BIOLOGICAL CELL SAMPLE VOLUMES WITHIN SMALL LOW REYNOLDS NUMBER FLUID VOLUMES **[submission pending]**
-
-`2019`
-DISPOSABLE SAMPLE DELIVERY DEVICE **[submission pending]**
+METHOD AND APPARATUS FOR PRE-POSITIONING A STATIC, RADIALLY SYMMETRIC, COAXIAL SAMPLE AND SHEATH COMBINATION TO PROVIDE UNIFORM SAMPLE DELIVERY DURING FLOW 
 
 ## Awards 
 
@@ -44,7 +31,7 @@ DISPOSABLE SAMPLE DELIVERY DEVICE **[submission pending]**
 
 ## Publications
 
-currently no publications
+1. Choonoo G, Blucher AS, Higgins S, Boardman M, Jeng S, Zheng C, et al. Illuminating biological pathways for drug targeting in head and neck squamous cell carcinoma. PLOS ONE. 2019 Oct 9;14(10):e0223639. 
 
 ## Presentations
 
